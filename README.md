@@ -87,6 +87,3 @@ We welcome contributions from other developers. You can open a pull request to s
 ## Contact:
 If you have any questions or inquiries, please contact us via email at ahmed123hosny4@gmail.com.
 
-## Special Thanks:
-We would like to thank all contributors for their efforts in developing this report and their contributions to sales data analysis.
-
